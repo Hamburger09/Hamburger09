@@ -1,6 +1,6 @@
-<center>### Hi there 👋, I'm Dilshod</center>
+<h1 align="center">### Hi there 👋, I'm Dilshod</h1>
 
-## A passionate frontend developer
+<h3 align="center">A passionate frontend developer</h3>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
