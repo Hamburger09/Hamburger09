@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hamburger09&color=019F0B&style=for-the-badge" alt="Hamburger09" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hamburger09&theme=matrix" alt="Hamburger09" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hamburger09&theme=radical" alt="Hamburger09" /></a> </p>
 
 
 - 🔭 I’m currently working on Webline Digital Agency
@@ -19,7 +19,9 @@
 
 
 
-<p>
+
+  <h1>My Stats</h1>
+  <div align="center">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Hamburger09&show_icons=true&theme=radical"
@@ -31,7 +33,10 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Hamburger09&show_icons=true" />
 </picture>
+  </div>
 
+<h1>Activity on GitHub</h1>
+<div align="center">
   <picture>
   <source
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=Hamburger09&theme=radical"
@@ -43,9 +48,8 @@
   />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamburger09&" />
 </picture>
+</div>
 
-
-</p>
  
 ## Connect with me:
 <h1>
