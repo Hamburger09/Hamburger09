@@ -9,21 +9,15 @@
 
 <div align="center">
   <picture>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
   <source
     srcset="https://github-profile-trophy.vercel.app/?username=Hamburger09&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
-</a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
   <source
     srcset="https://github-profile-trophy.vercel.app/?username=Hamburger09&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-</a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=Hamburger09" />
-</a>
 </picture>
 </div> 
 
