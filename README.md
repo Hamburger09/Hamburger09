@@ -13,6 +13,9 @@
 - 📫 How to reach me: akhmedov.20092004@gmail.com
 - ⚡ Fun fact: I can solve a Rubik's cube in under 12 seconds
 
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamburger09&" alt="Hambuger09" /></p>
+
 ## Connect with me:
 <h1>
 <a href="https://www.linkedin.com/in/dilshod-akhmedov-70b173195/" target="_blank">
