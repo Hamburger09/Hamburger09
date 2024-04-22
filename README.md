@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hamburger09&color=green&style=for-the-badge" alt="Hamburger09" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hamburger09&color=019F0B&style=for-the-badge" alt="Hamburger09" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hamburger09&theme=matrix" alt="Hamburger09" /></a> </p>
 
