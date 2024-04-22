@@ -7,21 +7,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hamburger09&color=019F0B&style=for-the-badge" alt="Hamburger09" /> </p>
   
 
-<div align="left">
+<div align="center">
   <picture>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
   <source
     srcset="https://github-profile-trophy.vercel.app/?username=Hamburger09&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=Hamburger09"
+    srcset="https://github-profile-trophy.vercel.app/?username=Hamburger09&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-profile-trophy.vercel.app/?username=Hamburger09" />
-    </a>
+</a>
 </picture>
- 
 </div> 
 
 
