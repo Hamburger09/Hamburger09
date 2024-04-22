@@ -2,6 +2,8 @@
 
 <h3 align="center">A passionate frontend developer</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hamburger09" alt="Hamburger09" /></a> </p>
+
 - 🔭 I’m currently working on Webline Digital Agency
 - 🌱 I’m currently learning Design Patterns and Backend Development
 - 🤔 I’m looking for help with Design Patterns
