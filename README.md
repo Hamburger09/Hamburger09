@@ -20,17 +20,19 @@
 </a>
 </h1>
 
-
 ## Languages and Tools:
-
 <h1>
-<img src="https://img.icons8.com/?size=512&id=g9mmSxx3SwAI&format=png" height="40" width="40"/>
-<img src="https://img.icons8.com/?size=512&id=NfbyHexzVEDk&format=png" height="40" width="40"/>
-<img src="https://img.icons8.com/?size=512&id=108784&format=png" height="40" width="40"/>
-<img src="https://img.icons8.com/?size=512&id=20909&format=png" height="40" width="40"/>
-<img src="https://img.icons8.com/?size=512&id=21278&format=png" height="40" width="40"/>
-<img src="https://img.icons8.com/?size=512&id=eETV3RNHVrWA&format=png" height="40" width="40"/>
-<img src="https://img.icons8.com/?size=512&id=20906&format=png" height="40" width="40"/>
-<img src="https://img.icons8.com/?size=512&id=g9mmSxx3SwAI&format=png" height="40" width="40"/>
-
+<img src="https://img.icons8.com/?size=512&id=g9mmSxx3SwAI&format=png" height="40" width="40" alt="bootstrap"/>
+<img src="https://img.icons8.com/?size=512&id=NfbyHexzVEDk&format=png" height="40" width="40" alt="reactjs"/>
+<img src="https://img.icons8.com/?size=512&id=108784&format=png" height="40" width="40" alt="javascript"/>
+<img src="https://img.icons8.com/?size=512&id=20909&format=png" height="40" width="40" alt="html5"/>
+<img src="https://img.icons8.com/?size=512&id=21278&format=png" height="40" width="40" alt="css3"/>
+<img src="https://img.icons8.com/?size=512&id=eETV3RNHVrWA&format=png" height="40" width="40" alt="vuejs"/>
+<img src="https://img.icons8.com/?size=512&id=20906&format=png" height="40" width="40" alt="git"/>
+<img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" height="40" width="40" alt="nodejs"/>
+<img src="https://img.icons8.com/?size=512&id=kg46nzoJrmTR&format=png" height="40" width="40" alt="expressjs"/>
+<img src="https://img.icons8.com/?size=512&id=74402&format=png" height="40" width="40" alt="mongodb"/>
+<img src="https://img.icons8.com/?size=512&id=62452&format=png" height="40" width="40" alt="firebasejs"/>
+<img src="https://img.icons8.com/?size=512&id=EPbEfEa7o8CB&format=png" height="40" width="40" alt="postman"/>
+<img src="https://img.icons8.com/?size=512&id=CIAZz2CYc6Kc&format=png" height="40" width="40" alt="tailwindcss"/>
 </h1>
