@@ -95,9 +95,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamburger09&show_icons=true&locale=en&layout=compact&theme=default" />
 </picture>
 </div> 
-<div>
+<div align="between">
   <h1>Top Repositories</h1>
-  <a href="https://github.com/Hamburger09/Memories">
+<a href="https://github.com/Hamburger09/Memories">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin?username=Hamburger09&repo=Memories&theme=radical"
@@ -109,5 +109,44 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/pin?username=Hamburger09&repo=Memories" />
 </picture>
-  </a>
+</a>
+<a href="https://github.com/Hamburger09/mern-blog">
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin?username=Hamburger09&repo=mern-blog&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin?username=Hamburger09&repo=mern-blog"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Hamburger09&repo=mern-blog" />
+</picture>
+</a>
+<a href="https://github.com/Hamburger09/Netflix-clone">
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin?username=Hamburger09&repo=Netflix-clone&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin?username=Hamburger09&repo=Netflix-clone"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Hamburger09&repo=Netflix-clone" />
+</picture>
+</a>
+<a href="https://github.com/Hamburger09/GPT-3">
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin?username=Hamburger09&repo=GPT-3&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin?username=Hamburger09&repo=GPT-3"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Hamburger09&repo=GPT-3" />
+</picture>
+</a>
 </div>
