@@ -24,15 +24,13 @@
 ## Languages and Tools:
 
 <h1>
-<img src="https://img.icons8.com/?size=512&id=g9mmSxx3SwAI&format=png" height="30" width="30"/>
-<img src="https://img.icons8.com/?size=512&id=NfbyHexzVEDk&format=png" height="30" width="30"/>
-<img src="https://img.icons8.com/?size=512&id=108784&format=png" height="30" width="30"/>
-<img src="https://img.icons8.com/?size=512&id=20909&format=png" height="30" width="30"/>
-<img src="https://img.icons8.com/?size=512&id=21278&format=png" height="30" width="30"/>
-<img src="https://img.icons8.com/?size=512&id=eETV3RNHVrWA&format=png" height="30" width="30"/>
-<img src="https://img.icons8.com/?size=512&id=20906&format=png" height="30" width="30"/>
-<img src="https://img.icons8.com/?size=512&id=g9mmSxx3SwAI&format=png" height="30" width="30"/>
-
+<img src="https://img.icons8.com/?size=512&id=g9mmSxx3SwAI&format=png" height="40" width="40"/>
+<img src="https://img.icons8.com/?size=512&id=NfbyHexzVEDk&format=png" height="40" width="40"/>
+<img src="https://img.icons8.com/?size=512&id=108784&format=png" height="40" width="40"/>
+<img src="https://img.icons8.com/?size=512&id=20909&format=png" height="40" width="40"/>
+<img src="https://img.icons8.com/?size=512&id=21278&format=png" height="40" width="40"/>
+<img src="https://img.icons8.com/?size=512&id=eETV3RNHVrWA&format=png" height="40" width="40"/>
+<img src="https://img.icons8.com/?size=512&id=20906&format=png" height="40" width="40"/>
+<img src="https://img.icons8.com/?size=512&id=g9mmSxx3SwAI&format=png" height="40" width="40"/>
 
 </h1>
-
