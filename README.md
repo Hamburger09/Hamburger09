@@ -95,9 +95,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamburger09&show_icons=true&locale=en&layout=compact&theme=default" />
 </picture>
 </div> 
-<div align="between">
-  <h1>Top Repositories</h1>
-<a href="https://github.com/Hamburger09/Memories">
+<h1>Top Repositories</h1>
+<div align="center">
+<a href="https://github.com/Hamburger09/Memories" target="_blank">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin?username=Hamburger09&repo=Memories&theme=radical"
@@ -110,7 +110,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin?username=Hamburger09&repo=Memories" />
 </picture>
 </a>
-<a href="https://github.com/Hamburger09/mern-blog">
+<a href="https://github.com/Hamburger09/mern-blog" target="_blank">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin?username=Hamburger09&repo=mern-blog&theme=radical"
@@ -123,7 +123,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin?username=Hamburger09&repo=mern-blog" />
 </picture>
 </a>
-<a href="https://github.com/Hamburger09/Netflix-clone">
+<a href="https://github.com/Hamburger09/Netflix-clone" target="_blank">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin?username=Hamburger09&repo=Netflix-clone&theme=radical"
@@ -136,7 +136,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin?username=Hamburger09&repo=Netflix-clone" />
 </picture>
 </a>
-<a href="https://github.com/Hamburger09/GPT-3">
+<a href="https://github.com/Hamburger09/GPT-3" target="_blank">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin?username=Hamburger09&repo=GPT-3&theme=radical"
