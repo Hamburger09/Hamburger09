@@ -25,6 +25,10 @@
 ">
 <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="30"/>
 </a>
+  <a href="https://instagram.com/dead_shod
+">
+<img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="30"/>
+</a>
 </h1>
 
 ## Languages and Tools:
