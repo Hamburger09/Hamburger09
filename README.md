@@ -22,7 +22,7 @@
 </div> 
 
 
-- 🔭 I’m currently working on Webline Digital Agency
+- 🔭 I’m currently working at TNQurilish company
 - 🌱 I’m currently learning Design Patterns and Backend Development
 - 🤔 I’m looking for help with Design Patterns
 - 💬 Ask me about JavaScript
